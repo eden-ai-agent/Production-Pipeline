@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Build artifacts
+dist/
+*.log
+
+# Local secrets
+.env
+.env.local
+*.key
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python cache (if needed)
+__pycache__/
